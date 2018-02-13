@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamCityDemo.Website.Tests"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamCityDemo.CommandLineTool", "TeamCityDemo.CommandLineTool\TeamCityDemo.CommandLineTool.csproj", "{EF7EC741-6A41-4E36-939E-9001BB21D9E8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamCityDemo.CommandLineTool.Tests", "TeamCityDemo.CommandLineTool.Tests\TeamCityDemo.CommandLineTool.Tests.csproj", "{5E2C58EF-66E1-42DA-B591-DA0E47BB01AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{EF7EC741-6A41-4E36-939E-9001BB21D9E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF7EC741-6A41-4E36-939E-9001BB21D9E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF7EC741-6A41-4E36-939E-9001BB21D9E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E2C58EF-66E1-42DA-B591-DA0E47BB01AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E2C58EF-66E1-42DA-B591-DA0E47BB01AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E2C58EF-66E1-42DA-B591-DA0E47BB01AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E2C58EF-66E1-42DA-B591-DA0E47BB01AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
