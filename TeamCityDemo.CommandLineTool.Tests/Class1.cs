@@ -13,7 +13,10 @@ namespace TeamCityDemo.CommandLineTool.Tests
         [Test]
         public void DoTest()
         {
-            
+            using (var test = new Disposble())
+            {
+                
+            }
         }
     }
 }
