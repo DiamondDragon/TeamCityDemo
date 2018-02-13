@@ -1,8 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace TeamCityDemo.CommandLineTool
 {
@@ -10,6 +8,7 @@ namespace TeamCityDemo.CommandLineTool
     {
         static void Main(string[] args)
         {
+            var var1 = new Disposble();
         }
     }
 }
