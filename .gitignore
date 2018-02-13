@@ -1,0 +1,36 @@
+/.svn
+bin
+obj
+*.dbmdl
+*.user
+dist/
+packages/
+/*.suo
+*.lnk
+**/packages/*
+/.vs
+/.build
+
+# NUNIT
+*.VisualState.xml
+TestResult.xml
+
+# Others
+*.[Cc]ache
+ClientBin/
+[Ss]tyle[Cc]op.*
+~$*
+*~
+*.dbproj.schemaview
+*.publishsettings
+node_modules/
+bower_components/
+
+# NCrunch
+*_NCrunch_*
+.*crunch*.local.xml
+*ncrunchsolution
+*ncrunchproject
+
+*.lock
+*.log
